@@ -266,12 +266,3 @@ Jogada 3: [A6V] ana -> 8 pontos
 Fim do jogo. Total de pontos obtidos: 32
 ```
 
-## 4. Avaliação e entrega
-O projeto será cotado para 20 valores, distribuídos da seguinte forma:
-- Qualidade dos Comentários - 1 val
-- Organização do código (bibliotecas/funções) - 2 val
-- Qualidade do código e opções tomadas (algoritmos implementados) - 3 val
-- Gestão da memória (malloc, free e erros no valgrind) - 2 val
-- Testes automáticos (a ver com as saídas do programa) - 12 val, distribuídos da seguinte forma
-- Apresentação oral (com direito a questões), individualmente para cada elemento do grupo, consoante o nível de conhecimento das soluções apresentadas: **Até -5 valores**. Nota 20 significa que o formador percebe e reconhece que o formando trabalhou ativamente e conhece o código efetuado e as soluções implementadas. 
-
