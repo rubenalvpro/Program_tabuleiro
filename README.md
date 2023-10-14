@@ -266,3 +266,4 @@ Jogada 3: [A6V] ana -> 8 pontos
 Fim do jogo. Total de pontos obtidos: 32
 ```
 
+# Program_tabuleiro
